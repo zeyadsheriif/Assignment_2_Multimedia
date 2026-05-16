@@ -1,0 +1,13 @@
+numpy
+pandas
+transformers
+accelerate
+peft
+colpali-engine
+qdrant-client
+bitsandbytes
+gradio
+kagglehub
+einops
+sentencepiece
+Pillow
