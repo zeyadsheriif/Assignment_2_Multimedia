@@ -17,6 +17,9 @@ The pipeline decouples image understanding and linguistic reasoning workflows in
 
 ```text
 multi-modal-cxr-system/
+├── Zeyad_Sherif-202201220.ipynb                    # The Full assignment Colab Notebook
+│
+├── Zeyad_Sherif-202201220.pdf                      # The assignment Report
 │
 ├── data/                      # Local storage partition for JSON records
 │   └── medical_qa_dataset.json
